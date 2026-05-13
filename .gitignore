@@ -1,0 +1,10 @@
+# Generated folders/files
+__pycache__/
+.venv/
+.idea/
+build/
+dist/
+*.spec
+
+# Backups
+*gameR.py
